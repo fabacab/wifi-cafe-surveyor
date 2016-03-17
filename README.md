@@ -1,1 +1,1 @@
-# wifi-cafe-surveyor
+# wifi-cafe-surveyor (unofficial scratch repo)
